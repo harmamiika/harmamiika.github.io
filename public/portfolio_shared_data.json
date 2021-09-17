@@ -44,12 +44,9 @@
         "level": "70"
       },
       {
-        "name": "Shopify"
-      },
-      {
-        "name": "Bootstrap",
-        "class": "devicon-bootstrap-plain",
-        "level": "85"
+        "name": "Next.js",
+        "class": "devicon-nextjs-plain",
+        "level": "80"
       },
       {
         "name": "TypeScript",
@@ -60,6 +57,9 @@
         "name": "GraphQL",
         "class": "devicon-graphql-plain",
         "level": "65"
+      },
+      {
+        "name": "Shopify"
       }
     ]
   }
