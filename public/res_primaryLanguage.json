@@ -59,7 +59,7 @@
       ]
     },
     {
-      "title": "Thesis: Search Engine Optimization of a React Application",
+      "title": "Thesis: SEO of a React Application",
       "startDate": "2021",
       "description": "My bachelors thesis. Covers the subjects of: the technologies behind the internet, Single-Page-applications and React in the internet landscape, Search Engine Optimization. In the end I implement the main SEO consepts to a React app using NextJS. Written in finnish.",
       "images": [
@@ -75,6 +75,42 @@
         {
           "class": "devicon-nextjs-plain",
           "name": "Next.js"
+        }
+      ]
+    },
+    {
+      "title": "Bloglist",
+      "startDate": "2021",
+      "description": "Full Stack Developement -course project at the University of Helsinki.",
+      "images": [
+        "images/portfolio/photography/p1.jpg",
+        "images/portfolio/photography/p2.jpg"
+      ],
+      "url": "https://github.com",
+      "technologies": [
+        {
+          "class": "devicon-react-original",
+          "name": "React"
+        },
+        {
+          "class": "devicon-redux-plain",
+          "name": "Redux"
+        },
+        {
+          "class": "devicon-nodejs-plain",
+          "name": "Nodejs"
+        },
+        {
+          "class": "devicon-express-original colored",
+          "name": "Express"
+        },
+        {
+          "class": "devicon-mongodb-plain",
+          "name": "MongoDB"
+        },
+        {
+          "class": "devicon-bootstrap-plain",
+          "name": "Bootstrap"
         }
       ]
     }
