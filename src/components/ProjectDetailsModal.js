@@ -91,7 +91,25 @@ class ProjectDetailsModal extends Component {
                 >
                   <i
                     className="fas fa-external-link-alt"
-                    style={{ marginLeft: '10px' }}
+                    style={{ marginLeft: '10px', paddingTop: '10px' }}
+                  ></i>
+                </a>
+              ) : null}
+              {github ? (
+                <a
+                  href={github}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="link-href"
+                >
+                  <i
+                    className="devicon-github-original colored"
+                    style={{
+                      marginLeft: '10px',
+                      fontSize: '20px',
+                      position: 'relative',
+                      top: '2px',
+                    }}
                   ></i>
                 </a>
               ) : null}

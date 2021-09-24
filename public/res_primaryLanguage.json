@@ -15,7 +15,8 @@
       "startDate": "2021",
       "description": "An Advanced React course project. Allows user to write and execute JavaScript in browser as well as download and use packages such as React. Experimented with webpack, integrating a custom bundler to allow an iframe to execute code in browser. Built with React and Redux, styles with Bulma",
       "images": ["images/portfolio/BrowserEditors/p1.png"],
-      "url": "https://localnotes.vercel.app/",
+      "url": "https://browser-editors.vercel.app/",
+      "github": "https://github.com/harmamiika/InBrowserEditors",
       "technologies": [
         {
           "class": "devicon-react-original",
@@ -36,7 +37,8 @@
       "startDate": "2021",
       "description": "The all time classic - the Todo App! This time with some depth and added features. Focuses on ease of use. Notes are stored in localStorage which allows for no required login. Bult with React and Redux, styling with material UI.",
       "images": ["images/portfolio/LocalNotes/p1.png"],
-      "url": "",
+      "url": "https://localnotes.vercel.app/",
+      "github": "https://github.com/harmamiika/notes",
       "technologies": [
         {
           "class": "devicon-react-plain",
