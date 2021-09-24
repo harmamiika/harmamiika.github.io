@@ -76,7 +76,7 @@
       "startDate": "2021",
       "description": "Full Stack Developement -course project at the University of Helsinki.",
       "images": ["images/portfolio/Bloglist/p1.png"],
-      "url": "https://github.com",
+      "github": "https://github.com/harmamiika/bloglist-displayrepo",
       "technologies": [
         {
           "class": "devicon-react-original",
