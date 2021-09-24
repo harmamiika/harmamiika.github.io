@@ -11,14 +11,11 @@
   },
   "projects": [
     {
-      "title": "InBrowserEditors",
+      "title": "BrowserEditors",
       "startDate": "2021",
       "description": "An Advanced React course project. Allows user to write and execute JavaScript in browser as well as download and use packages such as React. Experimented with webpack, integrating a custom bundler to allow an iframe to execute code in browser. Built with React and Redux, styles with Bulma",
-      "images": [
-        "images/portfolio/photography/p1.jpg",
-        "images/portfolio/photography/p2.jpg"
-      ],
-      "url": "https://github.com",
+      "images": ["images/portfolio/BrowserEditors/p1.png"],
+      "url": "https://localnotes.vercel.app/",
       "technologies": [
         {
           "class": "devicon-react-original",
@@ -38,10 +35,7 @@
       "title": "LocalNotes",
       "startDate": "2021",
       "description": "The all time classic - the Todo App! This time with some depth and added features. Focuses on ease of use. Notes are stored in localStorage which allows for no required login. Bult with React and Redux, styling with material UI.",
-      "images": [
-        "images/portfolio/animal-shelter/p1.jpg",
-        "images/portfolio/animal-shelter/p2.jpg"
-      ],
+      "images": ["images/portfolio/LocalNotes/p1.png"],
       "url": "",
       "technologies": [
         {
@@ -62,10 +56,7 @@
       "title": "Thesis: SEO of a React Application",
       "startDate": "2021",
       "description": "My bachelors thesis. Covers the subjects of: the technologies behind the internet, Single-Page-applications and React in the internet landscape, Search Engine Optimization. In the end I implement the main SEO consepts to a React app using NextJS. Written in finnish.",
-      "images": [
-        "images/portfolio/adventure/p1.jpg",
-        "images/portfolio/adventure/p2.jpg"
-      ],
+      "images": ["images/portfolio/SEO/p1.png"],
       "url": "https://github.com",
       "technologies": [
         {
@@ -82,10 +73,7 @@
       "title": "Bloglist",
       "startDate": "2021",
       "description": "Full Stack Developement -course project at the University of Helsinki.",
-      "images": [
-        "images/portfolio/photography/p1.jpg",
-        "images/portfolio/photography/p2.jpg"
-      ],
+      "images": ["images/portfolio/Bloglist/p1.png"],
       "url": "https://github.com",
       "technologies": [
         {

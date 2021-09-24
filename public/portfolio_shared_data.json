@@ -9,7 +9,7 @@
         "class": "fab fa-github"
       }
     ],
-    "image": "myProfile.jpg"
+    "image": "myProfile.jpeg"
   },
   "skills": {
     "icons": [
@@ -42,6 +42,11 @@
         "name": "MongoDB",
         "class": "devicon-mongodb-plain",
         "level": "70"
+      },
+      {
+        "name": "Redux",
+        "class": "devicon-redux-plain",
+        "level": "85"
       },
       {
         "name": "Next.js",
