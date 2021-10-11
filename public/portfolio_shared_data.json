@@ -64,7 +64,9 @@
         "level": "65"
       },
       {
-        "name": "Shopify"
+        "name": "Jest",
+        "class": "devicon-jest-plain",
+        "level": "30"
       }
     ]
   }

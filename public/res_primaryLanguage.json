@@ -13,7 +13,7 @@
     {
       "title": "BrowserEditors",
       "startDate": "2021",
-      "description": "An Advanced React course project. Allows user to write and execute JavaScript in browser as well as download and use packages such as React. Experimented with webpack, integrating a custom bundler to allow an iframe to execute code in browser. Built with React and Redux, styles with Bulma",
+      "description": "An Advanced React course project. Allows user to write and execute JavaScript in browser as well as download and use packages such as React. Experimented with esbuild, integrating a custom bundler to allow an iframe to execute code in browser. Built with React and Redux, styles with Bulma",
       "images": ["images/portfolio/BrowserEditors/p1.png"],
       "url": "https://browser-editors.vercel.app/",
       "github": "https://github.com/harmamiika/InBrowserEditors",
@@ -21,6 +21,10 @@
         {
           "class": "devicon-react-original",
           "name": "React"
+        },
+        {
+          "class": "devicon-typescript-original",
+          "name": "TypeScript"
         },
         {
           "class": "devicon-redux-plain",
