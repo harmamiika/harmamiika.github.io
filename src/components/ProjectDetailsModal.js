@@ -14,7 +14,6 @@ class ProjectDetailsModal extends Component {
       var url = this.props.data.url;
       var github = this.props.data.github;
 
-      console.log(github, 'github');
       if (this.props.data.technologies) {
         var tech = technologies.map((icons, i) => {
           return (
