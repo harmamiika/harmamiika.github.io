@@ -1,7 +1,7 @@
 {
   "basic_info": {
     "name": "Miika Härmä",
-    "titles": ["Web Developer", "React Developer", "Shopify Expert"],
+    "titles": ["React Developer", "Shopify Developer", "Web Developer"],
     "social": [
       {
         "name": "github",
@@ -44,19 +44,19 @@
         "level": "70"
       },
       {
-        "name": "Redux",
-        "class": "devicon-redux-plain",
-        "level": "85"
-      },
-      {
         "name": "Next.js",
         "class": "devicon-nextjs-plain",
         "level": "80"
       },
       {
-        "name": "TypeScript",
-        "class": "devicon-typescript-plain",
-        "level": "65"
+        "name": "Redux",
+        "class": "devicon-redux-plain",
+        "level": "85"
+      },
+      {
+        "name": "Jest",
+        "class": "devicon-jest-plain",
+        "level": "30"
       },
       {
         "name": "GraphQL",
@@ -64,9 +64,9 @@
         "level": "65"
       },
       {
-        "name": "Jest",
-        "class": "devicon-jest-plain",
-        "level": "30"
+        "name": "TypeScript",
+        "class": "devicon-typescript-plain",
+        "level": "65"
       }
     ]
   }

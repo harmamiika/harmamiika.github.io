@@ -1,9 +1,9 @@
 {
   "basic_info": {
     "description_header": "Suomi",
-    "description": "Moi vaan",
+    "description": "Webkehittäjä. Parasta osaamistani on React-front-endit, mutta ymmärrän lisäksi full-stack-sovelluskehitystä esim Nodejs/express ja Nextjs -kehyksillä. Valmistun juuri kauppatieteen kandiksi, ja haluan päästä sisään työelämään kokopäiväisenä sovelluskehittäjänä. Olen omistautunut itseoppinut koodari, ja olen lisäksi suorittanut syventäviä tietojenkäsittelyopintoja Helsingin yliopistossa. Pääosaamisalueitani ovat React-sovellukset, Shopify-kehitys sekä hakukoneoptimointi. Etsin töitä front-end kehittäjänä. Olen MERN-stackin lisäksi kiinnostunut työskentelemään esim VueJS:llä, AngularJS:llä, TypeScriptillä, Python Djangolla, PHP Laravelilla, Golangilla, React Nativella ym.",
     "section_name": {
-      "about": "Minusta",
+      "about": "Minä",
       "projects": "Projektit",
       "skills": "Taidot",
       "experience": "skippiä"
