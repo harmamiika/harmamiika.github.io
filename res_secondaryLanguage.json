@@ -1,7 +1,7 @@
 {
   "basic_info": {
     "description_header": "Suomi",
-    "description": "Webkehittäjä. Parasta osaamistani on React-front-endit, mutta ymmärrän lisäksi full-stack-sovelluskehitystä esim Nodejs/express ja Nextjs -kehyksillä. Valmistun juuri kauppatieteen kandiksi, ja haluan päästä sisään työelämään kokopäiväisenä sovelluskehittäjänä. Olen omistautunut itseoppinut koodari, ja olen lisäksi suorittanut syventäviä tietojenkäsittelyopintoja Helsingin yliopistossa. Pääosaamisalueitani ovat React-sovellukset, Shopify-kehitys sekä hakukoneoptimointi. Etsin töitä front-end kehittäjänä. Olen MERN-stackin lisäksi kiinnostunut työskentelemään esim VueJS:llä, AngularJS:llä, TypeScriptillä, Python Djangolla, PHP Laravelilla, Golangilla, React Nativella ym.",
+    "description": "Webkehittäjä. Parasta osaamistani on React-front-endit, mutta ymmärrän lisäksi full-stack-sovelluskehitystä esimerkiksi Nodejs/express ja Nextjs -kehyksillä. Valmistun juuri kauppatieteen kandiksi, ja haluan päästä sisään työelämään kokopäiväisenä sovelluskehittäjänä. Olen omistautunut itseoppinut koodari, ja olen lisäksi suorittanut syventäviä tietojenkäsittelyopintoja Helsingin yliopistossa. Pääosaamisalueitani ovat React-sovellukset, Shopify-kehitys sekä hakukoneoptimointi. Etsin töitä front-end kehittäjänä. Olen MERN-stackin lisäksi kiinnostunut työskentelemään esim VueJS:llä, AngularJS:llä, TypeScriptillä, Python Djangolla, PHP Laravelilla, Golangilla, React Nativella ym.",
     "section_name": {
       "about": "Minä",
       "projects": "Projektit",
@@ -39,7 +39,7 @@
     {
       "title": "LocalNotes",
       "startDate": "2021",
-      "description": "The all time classic - the Todo App! This time with some depth and added features. Focuses on ease of use. Notes are stored in localStorage which allows for no required login. Bult with React and Redux, styling with material UI.",
+      "description": "React-applikaatioklassikko lisäsyvyydellä. Panostettu käytettävyyteen. Tallennus localStoragessa, tila Reduxissa, tyylit material UI:lla.",
       "images": ["images/portfolio/LocalNotes/p1.png"],
       "url": "https://localnotes.vercel.app/",
       "github": "https://github.com/harmamiika/notes",
@@ -59,11 +59,10 @@
       ]
     },
     {
-      "title": "Thesis: SEO of a React Application",
+      "title": "Tutkielma: React-applikaation hakukoneoptimointi",
       "startDate": "2021",
-      "description": "My bachelors thesis. Covers the subjects of: the technologies behind the internet, Single-Page-applications and React in the internet landscape, Search Engine Optimization. In the end I implement the main SEO consepts to a React app using NextJS. Written in finnish.",
+      "description": "Tuore kandidaatintutkielma. Käsittelee hakukoneoptimointia ja Single-Page-applikaatioita ja Reactia. Esimerkkejä toteutettu mm. NextJS:llä.",
       "images": ["images/portfolio/SEO/p1.png"],
-      "url": "https://github.com",
       "technologies": [
         {
           "class": "devicon-react-plain",
@@ -78,7 +77,7 @@
     {
       "title": "Bloglist",
       "startDate": "2021",
-      "description": "Full Stack Developement -course project at the University of Helsinki.",
+      "description": "Full Stack Developement -kurssiprojekti Helsingin Yliopistossa.",
       "images": ["images/portfolio/Bloglist/p1.png"],
       "github": "https://github.com/harmamiika/bloglist-displayrepo",
       "technologies": [
