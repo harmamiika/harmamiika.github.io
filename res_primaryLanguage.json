@@ -1,0 +1,138 @@
+{
+  "basic_info": {
+    "description_header": "English",
+    "description": "A web developer. Focusing on the React-front-ends. I also understand fullstack development with NodeJS/express and Next.JS as well as Shopify Platform development. I am just graduating with my BBA in marketing and now I’m pursuing my passion in development. My main strength is my in-depth technical understanding of the modern internet-space, and through my education I also have some understanding of the business side of things. I am well self-taught developer with also some advanced studies done in the University of Helsinki Faculty of Computer Science.",
+    "section_name": {
+      "about": "About me",
+      "projects": "Projects",
+      "skills": "Skills",
+      "experience": "Experience"
+    }
+  },
+  "projects": [
+    {
+      "title": "BrowserEditors",
+      "startDate": "2021",
+      "description": "An Advanced React course project. Allows user to write and execute JavaScript in browser as well as download and use packages such as React. Experimented with esbuild, integrating a custom bundler to allow an iframe to execute code in browser. Built with React and Redux, styles with Bulma",
+      "images": ["images/portfolio/BrowserEditors/p1.png"],
+      "url": "https://browser-editors.vercel.app/",
+      "github": "https://github.com/harmamiika/InBrowserEditors",
+      "technologies": [
+        {
+          "class": "devicon-react-original",
+          "name": "React"
+        },
+        {
+          "class": "devicon-typescript-original",
+          "name": "TypeScript"
+        },
+        {
+          "class": "devicon-redux-plain",
+          "name": "Redux"
+        },
+        {
+          "class": "devicon-bulma-plain",
+          "name": "Bulma"
+        }
+      ]
+    },
+    {
+      "title": "LocalNotes",
+      "startDate": "2021",
+      "description": "The all time classic - the Todo App! This time with some depth and added features. Focuses on ease of use. Notes are stored in localStorage which allows for no required login. Bult with React and Redux, styling with material UI.",
+      "images": ["images/portfolio/LocalNotes/p1.png"],
+      "url": "https://localnotes.vercel.app/",
+      "github": "https://github.com/harmamiika/notes",
+      "technologies": [
+        {
+          "class": "devicon-react-plain",
+          "name": "React"
+        },
+        {
+          "class": "devicon-redux-plain",
+          "name": "Redux"
+        },
+        {
+          "class": "devicon-materialui-plain",
+          "name": "Material UI"
+        }
+      ]
+    },
+    {
+      "title": "Thesis: SEO of a React Application",
+      "startDate": "2021",
+      "description": "My bachelors thesis. Covers the subjects of: the technologies behind the internet, Single-Page-applications and React in the internet landscape, Search Engine Optimization. In the end I implement the main SEO consepts to a React app using NextJS. Written in finnish.",
+      "images": ["images/portfolio/SEO/p1.png"],
+      "url": "https://github.com",
+      "technologies": [
+        {
+          "class": "devicon-react-plain",
+          "name": "React"
+        },
+        {
+          "class": "devicon-nextjs-plain",
+          "name": "Next.js"
+        }
+      ]
+    },
+    {
+      "title": "Bloglist",
+      "startDate": "2021",
+      "description": "Full Stack Developement -course project at the University of Helsinki.",
+      "images": ["images/portfolio/Bloglist/p1.png"],
+      "github": "https://github.com/harmamiika/bloglist-displayrepo",
+      "technologies": [
+        {
+          "class": "devicon-react-original",
+          "name": "React"
+        },
+        {
+          "class": "devicon-redux-plain",
+          "name": "Redux"
+        },
+        {
+          "class": "devicon-nodejs-plain",
+          "name": "Nodejs"
+        },
+        {
+          "class": "devicon-express-original colored",
+          "name": "Express"
+        },
+        {
+          "class": "devicon-mongodb-plain",
+          "name": "MongoDB"
+        },
+        {
+          "class": "devicon-bootstrap-plain",
+          "name": "Bootstrap"
+        }
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "company": "DefOpenSource",
+      "title": "Front-End Developer",
+      "years": "10.2019 - present",
+      "mainTech": ["Angular 8/9/10"],
+      "technologies": [
+        "REST API",
+        "RxJS",
+        "JavaScript",
+        "Bootstrap",
+        "MDBootstrap",
+        "EF Core",
+        ".NET Core",
+        "SignalR",
+        "Angular Material"
+      ]
+    },
+    {
+      "company": "Serros Solutions",
+      "title": "Intern",
+      "years": "01.2018 - 09.2019",
+      "mainTech": ["Angular 7/8"],
+      "technologies": ["RxJS", "Django", "PHP", "JavaScript", "DHTMLX Gantt"]
+    }
+  ]
+}
